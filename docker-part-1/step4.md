@@ -4,11 +4,11 @@ To check the Docker version run the following command:
 
 ```
 docker version
-```
+```{{execute}}
 
 To get some more information about your Docker Engine, you can run the following command:
 
-```
+```{{execute}}
 docker info
 ```
 
