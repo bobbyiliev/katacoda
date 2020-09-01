@@ -8,9 +8,9 @@ docker version
 
 To get some more information about your Docker Engine, you can run the following command:
 
-```{{execute}}
-docker info
 ```
+docker info
+```{{execute}}
 
 With the docker info command, we can see how many running containers that we've got and some server information.
 
