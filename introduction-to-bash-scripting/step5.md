@@ -6,7 +6,7 @@ Here is an example of a comment:
 
 ```
 # This is a comment and will not be rendered on the screen
-```
+```{{execute}}
 
 Let's go ahead and add some comments to our script:
 

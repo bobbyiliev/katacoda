@@ -82,4 +82,5 @@ For example, let's create a script that prints out the name of the file and dele
 echo "The name of the file is: $0 and it is going to be self-deleted"
 
 rm -f $0
+
 ```
