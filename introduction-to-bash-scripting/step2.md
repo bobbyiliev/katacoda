@@ -1,8 +1,6 @@
-# Bash Hello World
-
 Once we have our `devdojo.sh` file created and we've specified the bash shebang on the very first line, we are ready to create our first `Hello World` bash script.
 
-To do that, open the `devdojo.sh` file again:
+If you have not done so already, open the `devdojo.sh` file again:
 
 ```
 nano devdojo.sh
@@ -16,7 +14,7 @@ And add the following after the `#!/bin/bash` line:
 echo "Hello World!"
 ```
 
-Save the file and exit.
+Save the file and exit. To save the file with `nano` press `CTRL+O` and then press `ENTER`, to exit press `CTRL+X`.
 
 After that make the script executable by running:
 

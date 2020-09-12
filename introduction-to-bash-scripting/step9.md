@@ -1,5 +1,3 @@
-# Bash Conditionals
-
 In the last section we covered some of the most popular conditional expressions, we can now use them with standard conditional statements like `if` and `if-else` statements.
 
 The format of an `if` statement in bash is as follows:

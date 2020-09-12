@@ -6,51 +6,51 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Bash Structure",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Bash Hello World",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Bash Variables",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Bash User Input",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Bash Comments",
         "text": "step5.md"
       },
       {
-        "title": "Step 6",
+        "title": "Bash Arguments",
         "text": "step6.md"
       },
       {
-        "title": "Step 7",
+        "title": "Bash Arrays",
         "text": "step7.md"
       },
       {
-        "title": "Step 8",
+        "title": "Bash Conditional Expressions",
         "text": "step8.md"
       },
       {
-        "title": "Step 9",
+        "title": "Bash Conditionals",
         "text": "step9.md"
       },
       {
-        "title": "Step 10",
+        "title": "Bash Loops",
         "text": "step10.md"
       },
       {
-        "title": "Step 11",
+        "title": "Bash Functions",
         "text": "step11.md"
       },
       {
-        "title": "Step 12",
+        "title": "Debugging and testing",
         "text": "step12.md"
       }
     ],

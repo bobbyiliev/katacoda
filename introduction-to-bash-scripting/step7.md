@@ -1,5 +1,3 @@
-# Bash Arrays
-
 If you have ever done any programming you are probably already familiar with arrays. But just in case that you are not a developer, unlike variables, arrays can hold several values under one name.
 
 You can initialize an array by assigning values devided by space and enclosed in `()`. Example:

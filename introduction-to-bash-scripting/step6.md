@@ -1,5 +1,3 @@
-# Bash Arguments
-
 You can pass arguments to your shell script when you execute it. To pass an argument you just need to write it right after the name of your script. For example:
 
 ```

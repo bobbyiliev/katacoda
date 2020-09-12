@@ -1,5 +1,3 @@
-# Bash Functions
-
 Functions are a great way to reuse code. The structure of a function in bash is quite similar to most languages:
 
 ```

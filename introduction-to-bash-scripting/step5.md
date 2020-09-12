@@ -1,5 +1,3 @@
-# Bash Comments
-
 As with any other programming language you can add comments to your script. Comments are used to leave yourself notes through your code. 
 
 To do that in bash you need to add the `#` symbol at the beginning of the line. Comments will never be rendered on the screen.

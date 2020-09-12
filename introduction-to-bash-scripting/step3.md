@@ -1,5 +1,3 @@
-# Bash Variables
-
 As with any other programming language, you can use variables in bash as well. However, there are no data types and a variable in bash can container numbers and characters.
 
 To assign a value to a variable all you need to do is use the `=` sign:

@@ -1,5 +1,3 @@
-# Debugging and testing
-
 In order to debug your bash scripts, you can use `-x` when executing your scripts:
 
 ```

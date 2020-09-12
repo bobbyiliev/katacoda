@@ -1,5 +1,3 @@
-# Bash Conditional Expressions
-
 In computer science, conditional statements, conditional expressions and conditional constructs are features of a programming language, which perform different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false.
 
 In bash conditional expressions are used by the `[[` compound command and the `[` builtin commands to test file attributes and perform string and arithmetic comparisons. 

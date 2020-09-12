@@ -1,5 +1,3 @@
-# Bash Loops
-
 As with any other language, loops are very useful. With bash you can use `for` loops, `while` loops and `until` loops.
 
 ## For loops
