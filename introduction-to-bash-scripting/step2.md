@@ -20,13 +20,13 @@ After that make the script executable by running:
 
 ```
 chmod +x devdojo.sh
-```nano devdojo.sh
+```{{execute}}
 
 After that execute the file:
 
 ```
 ./devdojo.sh
-```nano devdojo.sh
+```{{execute}}
 
 You will see a "Hello Wolrd" message on the screen.
 
@@ -34,12 +34,12 @@ Another way to run the script would be:
 
 ```
 bash devdojo.sh
-```nano devdojo.sh
+```{{execute}}
 
 As bash can be used interactively, you could run the following command directly in your terminal and you would get the same result:
 
 ```
 echo "Hello DevDojo!"
-```nano devdojo.sh
+```{{execute}}
 
 Putting a script together is useful once you have to combine multiple commands together.
