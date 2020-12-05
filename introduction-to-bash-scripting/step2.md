@@ -12,7 +12,7 @@ And add the following after the `#!/bin/bash` line:
 #!/bin/bash
 
 echo "Hello World!"
-```
+```{{copy}}
 
 Save the file and exit. To save the file with `nano` press `CTRL+O` and then press `ENTER`, to exit press `CTRL+X`.
 

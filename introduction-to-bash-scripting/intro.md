@@ -1,5 +1,7 @@
 Welcome to this Bash basics training guide!
 
+This Introduction to Bash Scripting interactive guide is based on the [Open-source Introduction to Bash Scripting eBook](https://github.com/bobbyiliev/introduction-to-bash-scripting).
+
 In this **bash crash course**, you will learn the **Bash basics** so you could start writing your own Bash scripts and automate your daily tasks.
 
 Bash is a Unix shell and command language. It is widely available on various operating systems and it is also the default command interpreter on most Linux systems.

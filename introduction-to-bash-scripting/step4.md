@@ -10,7 +10,7 @@ read name
 
 echo "Hi there $name"
 echo "Welcome to DevDojo!"
-```
+```{{copy}}
 
 The above will prompt the user for input, and then store that input as a string/text in a variable. 
 
@@ -25,6 +25,7 @@ The output of the above script would be:
 ```{{execute}}
 
 * Then you would be prompted to enter your name:
+
 ```
 What is your name?
 Bobby
@@ -46,4 +47,4 @@ read -p "What is your name? " name
 
 echo "Hi there $name"
 echo "Welcome to DevDojo!"
-```
+```{{copy}}
