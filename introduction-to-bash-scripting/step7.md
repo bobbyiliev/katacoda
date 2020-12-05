@@ -20,7 +20,16 @@ echo ${my_array[1]}
 echo ${my_array[-1]}
 ```{{execute}}
 
-* This would output the total number of elements in the array, in our case it is 4:
+* As with command line arguments using `@` will return all arguments in the array, as follows: `value 1 value 2 value 3 value 4`
+
 ```
 echo ${my_array[@]}
 ```{{execute}}
+
+* Prepending the array with a hash sign (`#`) would output the total number of elements in the array, in our case it is `4`:
+
+```
+echo ${#my_array[@]}
+```{{execute}}
+
+Make sure to test this and practice it at your end with different values.

@@ -1,13 +1,15 @@
 # Wrap Up
 
-Congratulations! You have just completed the Bash basics tutorial.
+Congratulations! You have just completed the Bash basics guide!
 
-Be sure to bookmark this guide anytime you need to reference any Bash topic in the future.
+If you found this useful, be sure to star the project on [GitHub](https://github.com/bobbyiliev/introduction-to-bash-scripting) and download the free eBook!
 
-In this tutorial, we just covered the basics, but you still have enough under your belt to start wringing some awesome scripts and automating daily tasks!
+If you have any suggestions for improvements, make sure to contribute pull requests or open issues.
 
-As a next step try writing your own script and share it with the world! This is the best way to learn any new programming or scripting language! 
+In this introduction to Bash scripting book, we just covered the basics, but you still have enough under your belt to start wringing some awesome scripts and automating daily tasks!
 
-Make sure to tweet about it and tag @thedevdojo so that we could check it out!
+As a next step try writing your own script and share it with the world! This is the best way to learn any new programming or scripting language!
 
-Congrats again on completing this tutorial!
+In case that this book enspired you to write some cool Bash scripts, make sure to tweet about it and tag [@bobbyiliev_](https://twitter.com) so that we could check it out!
+
+Congrats again on completing this guide!

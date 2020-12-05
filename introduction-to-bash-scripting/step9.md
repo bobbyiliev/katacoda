@@ -24,7 +24,7 @@ then
 else
     echo "Hi there ${name}"
 fi
-```
+```{{copy}}
 
 You can use the above if statement with all of the conditional expressions from the previous secton!
 
@@ -50,7 +50,7 @@ if [[ "${username}" == "${admin}" ]] ; then
 else
     echo "You are NOT the admin user!"
 fi
-```
+```{{copy}}
 
 And run the script:
 

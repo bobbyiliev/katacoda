@@ -38,9 +38,9 @@ And update the file so it looks like this:
 name="DevDojo"
 
 echo "Hi there $name"
-```
+```{{copy}}
 
-Save it and run it again:
+**Save** it and run it again:
 
 ```
 ./devdojo.sh

@@ -22,7 +22,7 @@ And then add the following contentn an example:
 echo "Argument one is $1"
 echo "Argument two is $2"
 echo "Argument three is $3"
-```
+```{{copy}}
 
 Save the file and make it executable:
 
@@ -56,7 +56,7 @@ And update it as follows:
 #!/bin/bash
 
 echo "All arguments: $@"
-```
+```{{copy}}
 
 If you run the script again:
 
@@ -82,5 +82,4 @@ For example, let's create a script that prints out the name of the file and dele
 echo "The name of the file is: $0 and it is going to be self-deleted"
 
 rm -f $0
-
-```
+```{{copy}}

@@ -28,7 +28,7 @@ for user in ${users}
 do
     echo "${user}"
 done
-```
+```{{copy}}
 
 Then run the file:
 
@@ -45,7 +45,7 @@ for num in {1..10}
 do
     echo ${num}
 done
-```
+```{{copy}}
 
 ## While loops
 
@@ -75,7 +75,7 @@ do
     echo $counter
     ((counter++))
 done
-```
+```{{copy}}
 
 Finally run the script:
 
@@ -97,7 +97,7 @@ do
 done
 
 echo "Hi there ${name}"
-```
+```{{copy}}
 
 If you run the above and just press enter without providing input, the loop would run again and ask you for your name again and again until you actually provide an input.
 
@@ -131,7 +131,7 @@ do
     echo $count
     ((count++))
 done
-```
+```{{copy}}
 
 Finally run the script:
 

@@ -26,7 +26,7 @@ function hello(){
 }
 
 hello
-```
+```{{copy}}
 
 One thing to keep in mind is that when you call the function, you should not add the parenthesis.
 
@@ -40,6 +40,6 @@ function hello(){
 }
 
 hello DevDojo
-```
+```{{copy}}
 
 As a test, try creating a new file yourself and use the above code to test it!
