@@ -56,4 +56,4 @@ Here is a rundown of the script:
 
 * `#!/bin/bash` - first we specified our shebang
 * `name=DevDojo` - then we specified a variable called `name` and assigned a value to it
-* `echo "Hi there $name" - finally we output the content of the variable on the screen by using `echo`
+* `echo "Hi there $name"` - finally we output the content of the variable on the screen by using `echo`

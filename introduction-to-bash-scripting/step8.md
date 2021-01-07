@@ -18,7 +18,7 @@ Here is a list with the most popular bash conditional expressions, you do not ha
 [[ -b ${file} ]]
 ```
 
-*True if file exists and is a character special file.
+* True if file exists and is a character special file.
 
 ```
 [[ -c ${file} ]]
@@ -86,13 +86,13 @@ Here is a list with the most popular bash conditional expressions, you do not ha
 [[ -v ${varname} ]]
 ```
 
-True if the length of the string is zero.
+* True if the length of the string is zero.
 
 ```
 [[ -z ${string} ]]
 ```
 
-True if the length of the string is non-zero.
+* True if the length of the string is non-zero.
 
 ```
 [[ -n ${string} ]]
