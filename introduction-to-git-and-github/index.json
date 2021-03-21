@@ -1,0 +1,114 @@
+{
+  "title": "Introduction to Git and GitHub",
+  "description": "In this crash course, you will learn the basics so you could start using Git and GitHub",
+  "difficulty": "Beginner",
+  "time": "45",
+  "details": {
+    "steps": [
+      {
+        "title": "Version Control",
+        "text": "002-version-control.md"
+      },
+      {
+        "title": "Installing Git",
+        "text": "003-installing-git.md"
+      },
+      {
+        "title": "Basic Shell Commands",
+        "text": "004-basic-shell-commands.md"
+      },
+      {
+        "title": "Git Configuration",
+        "text": "005-git-configuration.md"
+      },
+      {
+        "title": "Introduction to GitHub",
+        "text": "006-introduction-to-GitHub.md"
+      },
+      {
+        "title": "Initializing a project",
+        "text": "007-initializing-a-project.md"
+      },
+      {
+        "title": "Git Status",
+        "text": "008-git-status.md"
+      },
+      {
+        "title": "Git Add",
+        "text": "009-git-add.md"
+      },
+      {
+        "title": "Git Commit",
+        "text": "010-git-commit.md"
+      },
+      {
+        "title": "Git Diff",
+        "text": "011-git-diff.md"
+      },
+      {
+        "title": "Git Log",
+        "text": "012-git-log.md"
+      },
+      {
+        "title": "Git Ignore",
+        "text": "013-gitignore-file.md"
+      },
+      {
+        "title": "SSH Keys",
+        "text": "014-ssh-keys.md"
+      },
+      {
+        "title": "Git Push",
+        "text": "015-git-push.md"
+      },
+      {
+        "title": "Git Pull",
+        "text": "016-git-pull.md"
+      },
+      {
+        "title": "Git Branching",
+        "text": "017-git-branching.md"
+      },
+      {
+        "title": "Git Merge",
+        "text": "018-git-merge.md"
+      },
+      {
+        "title": "Undoing in Git",
+        "text": "019-undoing-in-git.md"
+      },
+      {
+        "title": "Git Clone",
+        "text": "020-git-clone.md"
+      },
+      {
+        "title": "Forking in Git",
+        "text": "021-forking-in-git.md"
+      },
+      {
+        "title": "Git Workflow",
+        "text": "022-git-workflow.md"
+      },
+      {
+        "title": "Pull requests",
+        "text": "023-pull-requests.md"
+      },
+      {
+        "title": "Git Cheatsheet",
+        "text": "998-git-commands-cheat-sheet.md"
+      }
+    ],
+    "intro": {
+      "text": "001-introduction-to-git.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "bash"
+  }
+}
