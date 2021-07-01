@@ -1,0 +1,70 @@
+{
+  "title": "Introduction to SQL",
+  "description": "This is an introduction to SQL guide that will help you learn the basics of SQL and start using relational databases for your SysOps, DevOps, and Dev projects. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you will most likely have to use SQL at some point in your career.",
+  "difficulty": "Beginner",
+  "time": "30",
+  "details": {
+    "steps": [
+      {
+        "title": "Databases",
+        "text": "step1.md"
+      },
+      {
+        "title": "MySQL",
+        "text": "step2.md"
+      },
+      {
+        "title": "Tables",
+        "text": "step3.md"
+      },
+      {
+        "title": "Basic Syntax",
+        "text": "step4.md"
+      },
+      {
+        "title": "SELECT",
+        "text": "step5.md"
+      },
+      {
+        "title": "WHERE",
+        "text": "step6.md"
+      },
+      {
+        "title": "ORDER and GROUP BY",
+        "text": "step7.md"
+      },
+      {
+        "title": "INSERT",
+        "text": "step8.md"
+      },
+      {
+        "title": "UPDATE",
+        "text": "step9.md"
+      },
+      {
+        "title": "DELETE",
+        "text": "step10.md"
+      },
+      {
+        "title": "JOIN",
+        "text": "step11.md"
+      },
+      {
+        "title": "The MySQL dump command",
+        "text": "step12.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu1804"
+  }
+}
