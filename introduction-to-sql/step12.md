@@ -76,7 +76,7 @@ You should make sure that it has secure permissions:
 
 ```
 chmod 600 /home/your_user/.my.cnf
-```{{execute}}
+```
 
 And you should add the following content:
 

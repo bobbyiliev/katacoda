@@ -16,7 +16,7 @@ sudo apt update -y
 
 ```
 sudo apt install mysql-server mysql-client
-```
+```{{execute}}
 
 We are installing 2 packages, one is the actual MySQL server, and the other is the MySQL client, which would allow us to connect to the MySQL server and run our queries.
 
@@ -45,7 +45,13 @@ mysql -u root -p
 
 ## Creating a database
 
-After that, switch to the `demo` database that we created in the previous chapter:
+To create a database run:
+
+```
+CREATE DATABASE demo;
+```
+
+After that, switch to the `demo` database that we've just created:
 
 ```
 USE demo;

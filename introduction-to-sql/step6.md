@@ -6,7 +6,7 @@ The syntax would look like this:
 
 ```
 SELECT column_name FROM table_name WHERE column=some_value;
-```{{execute}}
+```
 
 ## WHERE Clause example
 

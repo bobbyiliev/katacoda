@@ -225,7 +225,7 @@ If you wanted to drop a specific column, the syntax would be:
 
 ```
 ALTER TABLE table_name DROP COLUMN column_name;
-```{{execute}}
+```
 
 > Note: keep in mind that this is a permanent change, and if you have any critical data in the specific column, it would be deleted instantly.
 

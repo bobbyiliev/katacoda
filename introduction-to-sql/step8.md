@@ -6,7 +6,7 @@ The syntax is the following:
 
 ```
 INSERT INTO table_name(column_name_1,column_name_2,column_name_n) VALUES('value_1', 'value_2', 'value_3');
-```{{execute}}
+```
 
 You would start with the `INSERT INTO` statement, followed by the table that you want to insert the data into. Then you would specify the list of the columns that you want to insert the data into. Finally, with the `VALUES` statement, you specify the data that you want to insert.
 
